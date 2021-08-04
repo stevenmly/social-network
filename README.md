@@ -6,6 +6,8 @@
   #### This project contains the API for a social media application that allows users to share their thoughts or react to others thoughts through comments. Users also have the ability to create a friends list.  It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and Moment.js for the dates/times.
   ---
   ## Demo Video
+  #### Part 1: https://drive.google.com/file/d/1cVaNp3Tfo-RNk-6_0xfv80_zC9wjSqVg/view
+  #### Part 2: https://drive.google.com/file/d/1MEX2gQ7218h8s3MiCvrsV21-Z2Vprhyw/view
   ---
   ## Table of Contents
   - [Installation](#installation)
