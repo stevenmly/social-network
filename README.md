@@ -18,6 +18,12 @@
   ## Installation
   #### Run npm i to install dependencies 
   ---
+  ## Usage
+  #### Ensure MongoDB is installed
+  ####  Clone the repository
+  #### Install dependencies npm i
+  #### Start the server npm start
+  ---
   ## License
   ##### This project is licensed under the terms of MIT license.
   ##### (https://opensource.org/licenses/MIT) 
